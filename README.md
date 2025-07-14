@@ -4,7 +4,7 @@
 - Genu Varum 
 - Normal 
 
- - Just Check Knee_deformities
+ - Just Check Knee_deformities.py
 
 ---
 

@@ -4,6 +4,8 @@
 - Genu Varum 
 - Normal 
 
+ - Just Check Knee_deformities
+
 ---
 
 ## 📌 Libraries

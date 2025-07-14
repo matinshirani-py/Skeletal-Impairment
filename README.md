@@ -19,6 +19,6 @@
 
 - Mild
 - Moderate
-_ Severe 
+- Severe 
 
 Based on medical papers like : https://durham-repository.worktribe.com/OutputFile/1262717?utm_source

@@ -9,9 +9,9 @@
 ## 📌 Libraries
 
 
- **MediaPipe** 
- **OpenCV** 
- **NumPy** 
+ - **MediaPipe** 
+ - **OpenCV** 
+ - **NumPy** 
 
 
 
